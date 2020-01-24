@@ -29,5 +29,5 @@ var exceptionIds = [];
         });
     });
 
-    return " [TOOL AUTO MESSAGE]\n🛠 Developed by @MonokaiJs\n🤝 Contact: https://www.facebook.com/muops.9\n☕ Please donate if you're interested in my work!";
+    return " [TOOL AUTO MESSAGE]\n🛠 \n🤝 Contact: https://www.facebook.com/muops.9\n☕ Please follow me if you're interested in my work!";
 })();
