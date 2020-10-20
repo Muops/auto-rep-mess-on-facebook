@@ -1,5 +1,5 @@
 var delayTime = 5000;
-var messagesText = "Viết text tại đây!!";
+var messagesText = "ur text!!";
 var exceptionIds = [];
 
 (() => {
